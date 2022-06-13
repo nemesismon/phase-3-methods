@@ -22,5 +22,3 @@ def halve(number)
     end
     nil
 end
-
-# test
